@@ -1,0 +1,18 @@
+body {
+    background-color: #ede4d3;
+    font-family: arial;
+}
+
+a.button {
+    padding: 6px 6px 6px 6px !important;
+    margin: 6px 0px 6px 0px !important;
+    border: 1px outset buttonborder !important;
+    border-radius: 0px !important;
+    color: buttontext !important;
+    font-size: 15px;
+    background-color: buttonface !important;
+    text-decoration: none !important;
+    outline-offset: 12px !important;
+    width: 50px !important;
+    display: block !important;
+}
